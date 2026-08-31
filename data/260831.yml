@@ -1,0 +1,61 @@
+about:
+  description: A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
+  license: MIT
+  homepage: 
+  head: 1e2e4f1
+  archived: false
+  latestVersion: v1.6.3
+  collectedAt: 2026-08-31T05:54:32Z
+timeline:
+  created: 2025-12-13
+  lastCommit: 2026-08-27
+  lastRelease: 2026-08-27
+popularity:
+  star: 4752
+  watcher: 15
+  fork: 158
+  release: 62
+  contributor: 34
+  pullRequest: 37
+  issue: 131
+language:
+  Python: 4027895
+  Shell: 6934
+  HCL: 6254
+  CSS: 5897
+  Nix: 4215
+  Dockerfile: 278
+totalLine: 4051473
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 4
+    mergedPR: 25
+    openPR: 3
+    closedIssue: 11
+    openIssue: 0
+    commit: 26
+  last90d:
+    since: 2026-06-02
+    release: 6
+    mergedPR: 38
+    openPR: 7
+    closedIssue: 22
+    openIssue: 1
+    commit: 57
+  last180d:
+    since: 2026-03-04
+    release: 10
+    mergedPR: 91
+    openPR: 9
+    closedIssue: 45
+    openIssue: 4
+    commit: 161
+  last360d:
+    since: 2025-09-05
+    release: 62
+    mergedPR: 138
+    openPR: 10
+    closedIssue: 127
+    openIssue: 4
+    commit: 437
