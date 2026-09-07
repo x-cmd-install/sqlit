@@ -5,13 +5,13 @@ about:
   head: 9db49c2
   archived: false
   latestVersion: "v1.6.4"
-  collectedAt: 2026-09-07T05:20:46Z
+  collectedAt: 2026-09-07T19:04:35Z
 timeline:
   created: 2025-12-13
   lastCommit: 2026-09-06
   lastRelease: 2026-09-05
 popularity:
-  star: 4807
+  star: 4811
   watcher: 18
   fork: 162
   release: 63
@@ -84,7 +84,7 @@ total:
   commit: 579
 ---
 path: /home/runner/.x-repo/github.com/Maxteabag/sqlit
-collectedAt: 2026-09-07T05:20:50Z
+collectedAt: 2026-09-07T19:04:38Z
 loc:
   Python:
     code: 97588
@@ -160,7 +160,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:20:51+00:00
+  collectedAt: 2026-09-07T19:04:39+00:00
   platform:
     darwin/arm64:
       name:  null
