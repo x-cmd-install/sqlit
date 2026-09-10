@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: sqlit
+  binname: sqlit
+  visiblename: sqlit
+  version: 1.6.4
+  origversion: 1.6.4-1
+  status: unique
+  summary: The lazygit of SQL databases - a lightweight TUI for SQL Server, PostgreSQL, MySQL, SQLite, and more
+  maintainers:
+    - maxteabag@aur
+  licenses:
+    - MIT
