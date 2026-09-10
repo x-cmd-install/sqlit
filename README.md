@@ -1,24 +1,63 @@
 # sqlit
 
+[中文版本](./README.cn.md)
+
 A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 
-- **Upstream**: <https://github.com/Maxteabag/sqlit>
-- **Homepage**: <>
-- **Latest release**: `v1.6.4` (2026-09-05)
-- **Last commit**: 2026-09-06
-- **License**: MIT
-- **Stars**: 4815 · **Forks**: 164 · **Open issues**: 135 · **Contributors**: 36
+![sqlit](https://repo.x-cmd.io/sqlit.svg)
 
-## Installation
+## Install
 
 ```sh
 x install sqlit
 ```
 
-See <https://x-cmd.com/install/sqlit> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/Maxteabag/sqlit>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T19:51:03Z._
+- **Latest**: `v1.6.4` (2026-09-05)
+- **Last commit**: 2026-09-10
+- **Published**: 2026-09-05T11:06:17Z
+
+## Popularity
+
+- **Stars**: 4,818 · **Forks**: 164 · **Open issues**: 135 · **Contributors**: 39
+
+## Totals (cumulative)
+
+- **Releases**: 63 · **Merged PRs**: 145 · **Open PRs**: 10 · **Closed issues**: 131 · **Open issues**: 4 · **Commits**: 582
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 4 | 22 | 4 | 11 | 0 | 37 |
+| 90d | 2026-06-12 | 6 | 40 | 8 | 24 | 1 | 72 |
+| 360d | 2025-09-15 | 63 | 145 | 10 | 131 | 4 | 454 |
+
+## Code size
+
+Total: **103,804** lines of code across **774** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 97,718 | 3,334 | 20,417 | 744 |
+| Svg | 3,712 | 19 | 133 | 19 |
+| Json | 897 | 0 | 0 | 6 |
+| Yaml | 464 | 45 | 31 | 3 |
+| Toml | 273 | 2 | 21 | 2 |
+
+## Improve this data
+
+Install metadata for sqlit lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sqlit` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/sqlit.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T05:34:04Z._
