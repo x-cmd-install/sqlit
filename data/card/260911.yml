@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.6.4"
   latestRelease: "v1.6.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:27:18Z
+  collectedAt: 2026-09-11T19:29:05Z
 timeline:
   created: 2025-12-13
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-05
   lastPrerelease: 
 popularity:
-  star: 4821
+  star: 4824
   watcher: 18
   fork: 165
   release: 63
@@ -88,7 +88,7 @@ total:
   commit: 582
 ---
 path: /home/runner/.x-repo/github.com/Maxteabag/sqlit
-collectedAt: 2026-09-11T05:27:20Z
+collectedAt: 2026-09-11T19:29:08Z
 loc:
   Python:
     code: 97718
