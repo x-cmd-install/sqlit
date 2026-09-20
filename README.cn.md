@@ -4,7 +4,7 @@
 
 A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 
-![sqlit](https://repo.x-cmd.io/sqlit.svg?lang=zh)
+[![x-cmd/install — sqlit Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sqlit.svg?lang=zh)](https://x-cmd.com/install/sqlit)
 
 ## 安装
 
@@ -36,7 +36,7 @@ x install sqlit
 
 ## 流行度
 
-- **Star**: 4,839 · **Fork**: 165 · **开放 issue**: 136 · **贡献者**: 39
+- **Star**: 4,842 · **Fork**: 164 · **开放 issue**: 136 · **贡献者**: 39
 
 ## 累计统计
 
@@ -46,12 +46,12 @@ x install sqlit
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 21 | 6 | 8 | 1 | 36 |
-| last60d | 2026-07-20 | 5 | 33 | 7 | 17 | 1 | 63 |
-| 90d | 2026-06-20 | 6 | 40 | 10 | 23 | 1 | 72 |
-| last180d | 2026-03-22 | 10 | 94 | 11 | 44 | 4 | 173 |
-| 360d | 2025-09-23 | 63 | 145 | 12 | 131 | 5 | 454 |
-| last720d | 2024-09-28 | 63 | 145 | 12 | 131 | 5 | 582 |
+| 30d | 2026-08-21 | 4 | 21 | 5 | 6 | 1 | 36 |
+| last60d | 2026-07-22 | 5 | 33 | 7 | 17 | 1 | 63 |
+| 90d | 2026-06-22 | 6 | 40 | 10 | 23 | 1 | 72 |
+| last180d | 2026-03-24 | 10 | 94 | 11 | 40 | 4 | 173 |
+| 360d | 2025-09-25 | 63 | 145 | 12 | 131 | 5 | 454 |
+| last720d | 2024-09-30 | 63 | 145 | 12 | 131 | 5 | 582 |
 
 ## 改进这些数据
 
@@ -62,4 +62,4 @@ sqlit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:47:45Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:44:49Z._
