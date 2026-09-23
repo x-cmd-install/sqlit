@@ -4,7 +4,7 @@
 
 A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 
-[![x-cmd/install — sqlit Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sqlit.svg)](https://x-cmd.com/install/sqlit)
+[![x-cmd/install — sqlit Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/sqlit.svg)](https://x-cmd.com/install/sqlit)
 
 ## Install
 
@@ -36,22 +36,22 @@ Total: **103,804** lines of code across **774** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,847 · **Forks**: 164 · **Open issues**: 136 · **Contributors**: 39
+- **Stars**: 4,850 · **Forks**: 165 · **Open issues**: 137 · **Contributors**: 39
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 145 · **Open PRs**: 12 · **Closed issues**: 131 · **Open issues**: 5 · **Commits**: 582
+- **Releases**: 63 · **Merged PRs**: 145 · **Open PRs**: 12 · **Closed issues**: 131 · **Open issues**: 6 · **Commits**: 582
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 14 | 5 | 6 | 1 | 14 |
-| last60d | 2026-07-24 | 5 | 33 | 7 | 17 | 1 | 60 |
-| 90d | 2026-06-24 | 6 | 40 | 10 | 23 | 1 | 72 |
-| last180d | 2026-03-26 | 10 | 93 | 11 | 40 | 4 | 172 |
-| 360d | 2025-09-27 | 63 | 145 | 12 | 131 | 5 | 454 |
-| last720d | 2024-10-02 | 63 | 145 | 12 | 131 | 5 | 582 |
+| 30d | 2026-08-24 | 4 | 10 | 5 | 6 | 2 | 14 |
+| last60d | 2026-07-25 | 5 | 33 | 7 | 16 | 2 | 60 |
+| 90d | 2026-06-25 | 6 | 40 | 10 | 20 | 2 | 72 |
+| last180d | 2026-03-27 | 10 | 93 | 11 | 40 | 5 | 172 |
+| 360d | 2025-09-28 | 63 | 145 | 12 | 131 | 6 | 454 |
+| last720d | 2024-10-03 | 63 | 145 | 12 | 131 | 6 | 582 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for sqlit lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:53:25Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:49:35Z._
