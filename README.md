@@ -46,12 +46,12 @@ Total: **103,804** lines of code across **774** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 2 | 6 | 5 | 4 | 3 | 14 |
-| last60d | 2026-07-28 | 5 | 32 | 7 | 16 | 3 | 60 |
-| 90d | 2026-06-28 | 6 | 40 | 10 | 20 | 3 | 72 |
-| last180d | 2026-03-30 | 10 | 93 | 11 | 40 | 6 | 172 |
-| 360d | 2025-10-01 | 63 | 145 | 12 | 131 | 7 | 454 |
-| last720d | 2024-10-06 | 63 | 145 | 12 | 131 | 7 | 582 |
+| 30d | 2026-08-28 | 1 | 5 | 5 | 4 | 3 | 10 |
+| last60d | 2026-07-29 | 5 | 32 | 7 | 16 | 3 | 58 |
+| 90d | 2026-06-29 | 6 | 40 | 10 | 20 | 3 | 72 |
+| last180d | 2026-03-31 | 10 | 93 | 11 | 40 | 6 | 164 |
+| 360d | 2025-10-02 | 63 | 145 | 12 | 131 | 7 | 454 |
+| last720d | 2024-10-07 | 63 | 145 | 12 | 131 | 7 | 582 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for sqlit lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:35:10Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:05:07Z._
