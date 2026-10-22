@@ -14,11 +14,11 @@ x install sqlit
 
 ## Code insight
 
-Total: **103,804** lines of code across **774** files in the top 5 languages.
+Total: **103,954** lines of code across **775** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 97,718 | 3,334 | 20,417 | 744 |
+| Python | 97,868 | 3,339 | 20,466 | 745 |
 | Svg | 3,712 | 19 | 133 | 19 |
 | Json | 897 | 0 | 0 | 6 |
 | Yaml | 464 | 45 | 31 | 3 |
@@ -32,26 +32,26 @@ Total: **103,804** lines of code across **774** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.6.4` (2026-09-05)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-10-22
 
 ## Popularity
 
-- **Stars**: 4,921 · **Forks**: 174 · **Open issues**: 141 · **Contributors**: 39
+- **Stars**: 4,923 · **Forks**: 174 · **Open issues**: 141 · **Contributors**: 39
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 145 · **Open PRs**: 16 · **Closed issues**: 132 · **Open issues**: 9 · **Commits**: 582
+- **Releases**: 63 · **Merged PRs**: 147 · **Open PRs**: 16 · **Closed issues**: 132 · **Open issues**: 9 · **Commits**: 584
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 4 | 1 | 4 | 0 |
-| last60d | 2026-08-22 | 4 | 21 | 9 | 7 | 5 | 18 |
-| 90d | 2026-07-23 | 5 | 33 | 11 | 18 | 5 | 60 |
-| last180d | 2026-04-24 | 9 | 81 | 15 | 39 | 8 | 143 |
-| 360d | 2025-10-26 | 63 | 145 | 16 | 132 | 9 | 454 |
-| last720d | 2024-10-31 | 63 | 145 | 16 | 132 | 9 | 582 |
+| 30d | 2026-09-22 | 0 | 2 | 4 | 1 | 3 | 2 |
+| last60d | 2026-08-23 | 4 | 16 | 9 | 7 | 5 | 20 |
+| 90d | 2026-07-24 | 5 | 35 | 11 | 18 | 5 | 62 |
+| last180d | 2026-04-25 | 9 | 83 | 15 | 39 | 8 | 145 |
+| 360d | 2025-10-27 | 63 | 147 | 16 | 132 | 9 | 456 |
+| last720d | 2024-11-01 | 63 | 147 | 16 | 132 | 9 | 584 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for sqlit lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:21:35Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:20:06Z._
