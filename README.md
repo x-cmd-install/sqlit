@@ -36,7 +36,7 @@ Total: **103,954** lines of code across **775** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,929 · **Forks**: 176 · **Open issues**: 141 · **Contributors**: 39
+- **Stars**: 4,929 · **Forks**: 177 · **Open issues**: 141 · **Contributors**: 39
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **103,954** lines of code across **775** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 2 | 4 | 1 | 3 | 2 |
-| last60d | 2026-08-26 | 4 | 9 | 9 | 5 | 5 | 15 |
-| 90d | 2026-07-27 | 6 | 34 | 11 | 17 | 5 | 61 |
-| last180d | 2026-04-28 | 10 | 83 | 15 | 38 | 8 | 144 |
-| 360d | 2025-10-30 | 64 | 147 | 16 | 132 | 9 | 456 |
-| last720d | 2024-11-04 | 64 | 147 | 16 | 132 | 9 | 584 |
+| 30d | 2026-09-26 | 1 | 2 | 4 | 1 | 2 | 2 |
+| last60d | 2026-08-27 | 3 | 8 | 9 | 5 | 5 | 15 |
+| 90d | 2026-07-28 | 6 | 34 | 11 | 17 | 5 | 61 |
+| last180d | 2026-04-29 | 10 | 83 | 15 | 37 | 8 | 144 |
+| 360d | 2025-10-31 | 64 | 147 | 16 | 132 | 9 | 456 |
+| last720d | 2024-11-05 | 64 | 147 | 16 | 132 | 9 | 584 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for sqlit lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:21:02Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:19:07Z._
