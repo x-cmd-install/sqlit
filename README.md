@@ -36,22 +36,22 @@ Total: **103,954** lines of code across **775** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,978 · **Forks**: 178 · **Open issues**: 143 · **Contributors**: 39
+- **Stars**: 4,980 · **Forks**: 180 · **Open issues**: 143 · **Contributors**: 39
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 147 · **Open PRs**: 18 · **Closed issues**: 132 · **Open issues**: 11 · **Commits**: 584
+- **Releases**: 64 · **Merged PRs**: 147 · **Open PRs**: 20 · **Closed issues**: 132 · **Open issues**: 11 · **Commits**: 584
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 1 | 2 | 2 | 1 | 3 | 2 |
-| last60d | 2026-09-10 | 1 | 2 | 8 | 1 | 6 | 2 |
-| 90d | 2026-08-11 | 5 | 24 | 12 | 12 | 7 | 39 |
-| last180d | 2026-05-13 | 10 | 79 | 17 | 33 | 10 | 141 |
-| 360d | 2025-11-14 | 64 | 147 | 18 | 132 | 11 | 456 |
-| last720d | 2024-11-19 | 64 | 147 | 18 | 132 | 11 | 584 |
+| 30d | 2026-10-11 | 1 | 2 | 4 | 0 | 3 | 2 |
+| last60d | 2026-09-11 | 1 | 2 | 10 | 1 | 6 | 2 |
+| 90d | 2026-08-12 | 5 | 24 | 14 | 11 | 7 | 39 |
+| last180d | 2026-05-14 | 10 | 79 | 19 | 32 | 10 | 141 |
+| 360d | 2025-11-15 | 64 | 147 | 20 | 132 | 11 | 456 |
+| last720d | 2024-11-20 | 64 | 147 | 20 | 132 | 11 | 584 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for sqlit lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:28:48Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:09:31Z._
