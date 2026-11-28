@@ -2,99 +2,99 @@ about:
   description: "A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more."
   license: MIT
   homepage: 
-  head: aa6ff7a
+  head: e1d3a3f
   archived: false
-  latestVersion: "v1.6.5"
-  latestRelease: "v1.6.5"
+  latestVersion: "v1.7.0"
+  latestRelease: "v1.7.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:58:42Z
+  collectedAt: 2026-11-28T08:25:52Z
 timeline:
   created: 2025-12-13
-  lastCommit: 2026-10-22
-  lastVersion: 2026-10-22
-  lastRelease: 2026-10-22
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-27
   lastPrerelease: 
 popularity:
-  star: 5004
+  star: 5007
   watcher: 13
   fork: 185
-  release: 64
-  contributor: 39
-  pullRequest: 198
+  release: 65
+  contributor: 41
+  pullRequest: 203
   issue: 147
 language:
-  Python: 4164673
+  Python: 4208140
   Shell: 6934
   HCL: 6254
   CSS: 5897
   Nix: 4215
   Dockerfile: 278
-totalBytes: 4188251
+totalBytes: 4231718
 recent:
   last30d:
-    since: 2026-10-28
-    release: 0
-    mergedPR: 0
-    openPR: 6
+    since: 2026-10-29
+    release: 1
+    mergedPR: 5
+    openPR: 5
     closedIssue: 0
     openIssue: 6
     commit: 0
   last60d:
-    since: 2026-09-28
-    release: 1
-    mergedPR: 2
-    openPR: 8
-    closedIssue: 1
-    openIssue: 8
-    commit: 2
-  last90d:
-    since: 2026-08-29
+    since: 2026-09-29
     release: 2
-    mergedPR: 7
-    openPR: 16
-    closedIssue: 5
-    openIssue: 11
-    commit: 15
+    mergedPR: 8
+    openPR: 5
+    closedIssue: 2
+    openIssue: 6
+    commit: 0
+  last90d:
+    since: 2026-08-30
+    release: 3
+    mergedPR: 15
+    openPR: 12
+    closedIssue: 9
+    openIssue: 7
+    commit: 0
   last180d:
-    since: 2026-05-31
-    release: 8
-    mergedPR: 46
-    openPR: 21
-    closedIssue: 28
-    openIssue: 12
-    commit: 81
+    since: 2026-06-01
+    release: 9
+    mergedPR: 54
+    openPR: 17
+    closedIssue: 31
+    openIssue: 8
+    commit: 0
   last360d:
-    since: 2025-12-02
-    release: 64
-    mergedPR: 147
-    openPR: 23
-    closedIssue: 133
-    openIssue: 14
-    commit: 456
+    since: 2025-12-03
+    release: 65
+    mergedPR: 155
+    openPR: 19
+    closedIssue: 137
+    openIssue: 10
+    commit: 0
   last720d:
-    since: 2024-12-07
-    release: 64
-    mergedPR: 147
-    openPR: 23
-    closedIssue: 133
-    openIssue: 14
-    commit: 584
+    since: 2024-12-08
+    release: 65
+    mergedPR: 155
+    openPR: 19
+    closedIssue: 137
+    openIssue: 10
+    commit: 607
 total:
-  release: 64
-  mergedPR: 147
-  openPR: 23
-  closedIssue: 133
-  openIssue: 14
-  commit: 584
+  release: 65
+  mergedPR: 155
+  openPR: 19
+  closedIssue: 137
+  openIssue: 10
+  commit: 607
 ---
 path: /home/runner/.x-repo/github.com/Maxteabag/sqlit
-collectedAt: 2026-11-27T08:58:46Z
+collectedAt: 2026-11-28T08:25:54Z
 loc:
   Python:
-    code: 97868
-    comments: 3339
-    blanks: 20466
-    files: 745
+    code: 98760
+    comments: 3353
+    blanks: 20649
+    files: 749
   Svg:
     code: 3712
     comments: 19
@@ -126,8 +126,8 @@ loc:
     blanks: 34
     files: 3
   Sh:
-    code: 134
-    comments: 35
+    code: 139
+    comments: 39
     blanks: 34
     files: 3
   Nix:
@@ -152,15 +152,15 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 4916
-    blanks: 1489
+    comments: 4922
+    blanks: 1490
     files: 34
 total:
-  code: 104070
-  comments: 8454
-  blanks: 22314
-  files: 821
+  code: 104967
+  comments: 8478
+  blanks: 22498
+  files: 825
 ---
 
 ---
-{"id":420356989,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOQnzqBM4ZDiN9","tag_name":"v1.6.5","target_commitish":"main","name":"v1.6.5","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-22T05:12:15Z","updated_at":"2026-10-22T06:00:44Z","published_at":"2026-10-22T06:00:06Z","assets":[],"body":"## Security\n\n- SQL Server connections now verify the server's TLS certificate. Local servers work as before, and for a self-signed remote server sqlit asks once whether to trust it. #346\n- Updated locked dependencies with known vulnerabilities in `uv.lock`. This affects development and CI only. #345\n\n## Features\n\n- Leader-menu commands can be bound directly to keys in `action_keys`. Thanks @fclef819 for the request. #326, #321\n- New Vesper dark theme. Thanks @mihaicrisann. #327\n\n## Bug fixes\n\n- Text in BLOB columns shows as text again instead of hex, and cell previews with text like `[/api/v1]` no longer crash. Thanks @sykesab. #329, #328\n","mentions_count":3}
+{"id":460835592,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOQnzqBM4bd8sI","tag_name":"v1.7.0","target_commitish":"main","name":"v1.7.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-27T15:53:42Z","updated_at":"2026-11-27T16:28:11Z","published_at":"2026-11-27T16:26:22Z","assets":[],"body":"## Features\n\n- Run a SQLite script with `sqlit query -f`. Statements execute in order and the CLI prints the final result. Execution stops at the first error. Use an explicit transaction when all writes should succeed or roll back together. Thanks to @jayhemnani9910 for the original contribution. #352 #362\n- PostgreSQL column completion now offers `GENERATED ALWAYS AS IDENTITY` and `GENERATED BY DEFAULT AS IDENTITY` in `CREATE TABLE` and `ALTER TABLE … ADD COLUMN`. #344 #363\n\n## Bug fixes\n\n- Find a table by typing its name even when it belongs to another schema. Tab inserts the qualified name. Thanks to @lucas-becirspahic. #341 #342\n- Pressing Enter in Explorer search now selects the highlighted match, including tables nested beneath a connection. Thanks to @liamhawkins and @nihil2501. #333 #360\n- SQLite’s TUI keeps a single connection for a multi-statement script, so later statements can use temporary tables created earlier in the script. #364\n- Transactional scripts now use the configured SSH tunnel. Closing the transaction executor leaves a tunnel owned by the original session available. #339\n- SQL Server’s chunked `FOR JSON` and `FOR XML` results are assembled into one document. Open a JSON cell in the value viewer to browse its tree or syntax-highlighted text. #336 #361\n\n## Dependencies\n\n- The development lockfile now uses Databricks SQL Connector 4.8.0 and oauthlib 4.0.0. A live Free Edition warehouse returned one row for `SELECT 1` through sqlit with these versions. #347\n\n[Full changelog](https://github.com/Maxteabag/sqlit/compare/v1.6.5...v1.7.0)\n","mentions_count":4}
